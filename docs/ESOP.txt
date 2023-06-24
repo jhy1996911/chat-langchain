@@ -1,0 +1,8 @@
+ESOP（Employee Stock Option Program），中文可译为“员工持股计划”，俗称期权池（Option Pool），指的是公司提前将部分股份留出，用于激励公司优秀员工（包括创始团队、高管、普通员工），它也是初创企业实施股权激励计划(Equity Incentive Plan)最普通采用的形式，在欧美等国家被认为是驱动初创企业发展必要的关键要素之一。股权激励计划的具体实施除了期权（option），还有限制性股票(restricted stock unit，RSU)等方式。
+
+ESOP是老虎经过三年时间发展，选定的一个重点战略方向。
+目前国内市场上主要有以下几家同类型的产品：
+中银国际
+ComputerShare
+核聚
+富途ESOP

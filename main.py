@@ -15,7 +15,8 @@ from schemas import ChatResponse
 app = FastAPI()
 templates = Jinja2Templates(directory="templates")
 vectorstore: Optional[VectorStore] = None
-
+from dotenv import load_dotenv
+load_dotenv()
 
 @app.on_event("startup")
 async def startup_event():

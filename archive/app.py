@@ -10,6 +10,7 @@ from langchain.vectorstores import Weaviate
 WEAVIATE_URL = os.environ["WEAVIATE_URL"]
 
 
+
 def get_weaviate_store():
     client = weaviate.Client(
         url=WEAVIATE_URL,
@@ -23,7 +24,7 @@ def set_openai_api_key(api_key, agent):
         os.environ["OPENAI_API_KEY"] = api_key
         vectorstore = get_weaviate_store()
         qa_chain = get_new_chain1(vectorstore)
-        os.environ["OPENAI_API_KEY"] = ""
+        os.environ["OPENAI_API_KEY"] = "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"
         return qa_chain
 
 
